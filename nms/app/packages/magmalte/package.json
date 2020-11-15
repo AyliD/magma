@@ -40,7 +40,7 @@
     "mariadb": "^2.4.2",
     "material-table": "^1.68.1",
     "pug": "^3.0.0",
-    "react-chartjs-2": "^2.7.4",
+    "react-chartjs-2": "^2.11.1",
     "react-json-tree": "^0.11.2",
     "react-json-view": "^1.19.1",
     "react-router-dom": "5.1.2",
